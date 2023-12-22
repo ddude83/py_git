@@ -1,0 +1,1 @@
+These are my exercise forms from "Automate the boring stuff with Python" -> https://www.udemy.com/course/automate/ video course from Udemy. One of the best Python tutors available on the internet, BTW.

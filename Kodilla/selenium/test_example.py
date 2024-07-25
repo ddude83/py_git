@@ -1,3 +1,6 @@
-def test_example(selenium):
-    selenium.get('http://www.example.com')
-    assert selenium.title == 'Example Domain'
+from selenium import webdriver
+
+def test_example():
+    driver = webdriver.Chrome()
+    driver.get('http://www.example.com')
+    assert driver.title == 'Example Domain'
